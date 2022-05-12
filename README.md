@@ -20,7 +20,7 @@ Technologies I have used:
 
 - LinkedIn: https://www.linkedin.com/in/alejandro-muratalla-marin-120126232/
 - Twitter: https://twitter.com/Elite_Zen_
-- Dev.to: https://dev.to/dashboard
+- Dev.to: https://dev.to/elitezen
 - StackOverflow: https://stackoverflow.com/users/12464931/elitezen
 - Discord: *Elitezen#2056*
 - Email: alejandromarin4531@gmail.com
