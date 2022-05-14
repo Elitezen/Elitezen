@@ -44,12 +44,12 @@ Technologies I have used:
 
 ## ✨ Projects
 
-# 🎮 Easy Trivia
-Easy Trivia is a JavaScript NPM module which provides a wrapper for the Open Trivia Database API. Included in this project are the NPM module, React website and a spinoff module "discord-trivia".
+# 🎮 Open Trivia Database Wrapper
+**open-trivia-db** is a JavaScript NPM module which provides a wrapper for the Open Trivia Database API. Included in this project are the NPM module, React website and a spinoff module "discord-trivia".
 
 **NPM Package**
-- [Repository](https://github.com/Elitezen/easy-trivia)
-- [NPM Page](https://www.npmjs.com/package/easy-trivia)
+- [Repository](https://github.com/Elitezen/open-trivia-db-wrapper)
+- [NPM Page](https://www.npmjs.com/package/open-trivia-db)
 - [Dev.to Guide Blogpost](https://dev.to/elitezen/retrieve-trivia-questions-with-easy-trivia-4nog)
 
 **Website**
@@ -58,7 +58,7 @@ Easy Trivia is a JavaScript NPM module which provides a wrapper for the Open Tri
 
 **Discord Trivia**
 
-Discord Trivia is a spinoff project which brings Easy Trivia and the Discord.JS library together to implement full trivia matches into Discord chats.
+Discord Trivia is a spinoff project which brings open-trivia-db and the Discord.JS library together to implement full trivia matches into Discord chats.
 - [Repository](https://github.com/Elitezen/discord-trivia)
 - [NPM Page](https://www.npmjs.com/package/discord-trivia)
 
@@ -92,5 +92,5 @@ DFC is an Express API that serves fortunes along with randomly generated lucky n
 
 --- 
 
-- 🔭 I’m currently working on apps for Easy Trivia and DFC
+- 🔭 I’m currently working on apps for open-trivia-db-wrapper and DFC
 - 🌱 I’m currently learning React, Express and MongoDB
