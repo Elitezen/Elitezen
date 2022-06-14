@@ -45,8 +45,9 @@ Technologies I have used:
 ## ✨ Projects
 
 # DEV API Wrapper
-devdotto is a NodeJS wrapper for the DEV (dev.to) API
-https://github.io/Elitezen/devdotto
+devdotto is a NodeJS wrapper for the DEV (dev.to) API (in progress)
+
+https://github.com/Elitezen/devdotto
 
 # 🎮 Open Trivia Database Wrapper
 **open-trivia-db** is a JavaScript NPM module which provides a wrapper for the Open Trivia Database API. Included in this project are the NPM module, React website and a spinoff module "discord-trivia".
