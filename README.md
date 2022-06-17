@@ -1,22 +1,28 @@
 # Hello!
 
-I first discovered my love for web development at the age of 13 and now focus on creating open sourced projects that showcase my talents in the hopes of employment when I graduate highscool. For the past year I have been balancing school, work and my programming hobby. 
+I first discovered my love for web development at the age of 13. Today I'm obsessed with creating wrappers for APIs and contributing to communities.
 
-Technologies I have used:
+Technologies I use:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-### Social Links:
+### Contact Me:
 
 - LinkedIn: https://www.linkedin.com/in/alejandro-muratalla-marin-120126232/
 - Twitter: https://twitter.com/Elite_Zen_
@@ -42,7 +48,31 @@ Technologies I have used:
 ### Adobe
 - Web Authoring using Adobe Dreamweaver CC 2015 (cert. id 5yye-4TKV)
 
-## ✨ Projects
+## ✨ Projects 
+
+### Summary
+
+### 🌐 Websites I've created: 
+- [Discord Trivia Website](https://elitezen.github.io/discord-trivia-website/)
+ 
+  A single page website built in React for discord-trivia.
+- [Digital Fortune Cookies API Demo](https://elitezen.github.io/digital-fortune-cookies-demo/)
+
+  A demo page for showcasing my Digital Fortune Cookies API.
+
+### 📦 NodeJS Modules:
+- [devdotto](https://github.com/Elitezen/devdotto)
+
+  An API wrapper for the DEV (dev.to) API
+- [open-trivia-db](https://github.com/Elitezen/open-trivia-db-wrapper)
+
+  An API wrapper for the OpenTDB API.
+- [fortune-cookie-generator](https://github.com/Elitezen/fortune-cookie-generator)
+
+  A wrapper module for Digital Fortune Cookies API
+- [discord-trivia](https://github.com/Elitezen/discord-trivia)
+
+  A Discord.JS based library which brings trivia game functionality to Discord bots.
 
 # DEV API Wrapper
 devdotto is a NodeJS wrapper for the DEV (dev.to) API (in progress)
@@ -66,6 +96,7 @@ https://github.com/Elitezen/devdotto
 Discord Trivia is a spinoff project which brings open-trivia-db and the Discord.JS library together to implement full trivia matches into Discord chats.
 - [Repository](https://github.com/Elitezen/discord-trivia)
 - [NPM Page](https://www.npmjs.com/package/discord-trivia)
+- [Webpage](https://elitezen.github.io/discord-trivia-website/)
 
 **Technologies Used**
 
@@ -84,6 +115,10 @@ DFC is an Express API that serves fortunes along with randomly generated lucky n
 **API**
 - [Repository](https://github.com/Elitezen/digital-fortune-cookies-api)
 
+**Demo Webpage**
+
+https://elitezen.github.io/digital-fortune-cookies-demo/
+
 **NPM Package**
 - [Repository](https://github.com/Elitezen/digital-fortune-cookies-api)
 - [NPM Page](https://www.npmjs.com/package/fortune-cookie-generator)
@@ -94,8 +129,3 @@ DFC is an Express API that serves fortunes along with randomly generated lucky n
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
---- 
-
-- 🔭 I’m currently working on apps for open-trivia-db-wrapper and DFC
-- 🌱 I’m currently learning React, Express and MongoDB
