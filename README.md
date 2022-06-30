@@ -2,6 +2,8 @@
 
 Developing for a hobby for 5 years now. Looking for a part-time, entry-level, front-end web development job. I focus on creating API wrappers and libraries in JavaScript, TypeScript and NodeJS. Creating websites with ReactJS and SASS/SCSS.
 
+My Website: https://elitezen.github.io/alejandromarin-website/
+
 Technologies I use:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,23 +15,23 @@ Technologies I use:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Contact Me:
 
 - LinkedIn: https://www.linkedin.com/in/alejandro-muratalla-marin-120126232/
-- Twitter: https://twitter.com/Elite_Zen_
+- Email: alejandromarin4531@gmail.com
+
+### Socials:
+
 - Dev.to: https://dev.to/elitezen
 - StackOverflow: https://stackoverflow.com/users/12464931/elitezen
-- Discord: *Elitezen#2056*
-- Email: alejandromarin4531@gmail.com
 
 ## 📜 Certifications:
 
