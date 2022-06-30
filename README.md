@@ -1,6 +1,6 @@
 # Hello!
 
-I first discovered my love for web development at the age of 13. Today I'm obsessed with creating wrappers for APIs and contributing to communities.
+Developing for a hobby for 5 years now. Looking for a part-time, entry-level, front-end web development job. I focus on creating API wrappers and libraries in JavaScript, TypeScript and NodeJS. Creating websites with ReactJS and SASS/SCSS.
 
 Technologies I use:
 
