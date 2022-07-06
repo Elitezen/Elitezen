@@ -3,6 +3,7 @@
 Developing for a hobby for 5 years now. Looking for a part-time, entry-level, front-end web development job. I focus on creating API wrappers and libraries in JavaScript, TypeScript and NodeJS. Creating websites with ReactJS and SASS/SCSS.
 
 My Website: https://elitezen.github.io/alejandromarin-website/
+Resume: https://github.com/Elitezen/Elitezen/blob/main/Alejandro_MuratallaMarin_Resume.PDF
 
 Technologies I use:
 
