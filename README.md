@@ -4,7 +4,7 @@ Developing for a hobby for 5 years now. Looking for a part-time, entry-level, fr
 
 My Website: https://elitezen.github.io/alejandromarin-website/
 
-Resume: https://github.com/Elitezen/Elitezen/blob/main/Alejandro_MuratallaMarin_Resume.PDF
+Resume: https://github.com/Elitezen/Elitezen/blob/main/Alejandro_MuratallaMarin_Resume_070822.PDF
 
 Technologies I use:
 
