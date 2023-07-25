@@ -4,7 +4,15 @@ Developing for a hobby for 5 years now. Looking for an entry-level, front-end we
 
 My Website: https://elitezen.github.io/alejandromarin-website/
 
-Resume: https://github.com/Elitezen/Elitezen/blob/main/Alejandro_MuratallaMarin_Resume_070822.PDF
+### Contact Me:
+
+- LinkedIn: https://www.linkedin.com/in/alejandro-muratalla-marin-120126232/
+- Email: alejandromarin4531@gmail.com
+
+### Socials:
+
+- Dev.to: https://dev.to/elitezen
+- StackOverflow: https://stackoverflow.com/users/12464931/elitezen
 
 Technologies I use:
 
@@ -24,16 +32,6 @@ Technologies I use:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Contact Me:
-
-- LinkedIn: https://www.linkedin.com/in/alejandro-muratalla-marin-120126232/
-- Email: alejandromarin4531@gmail.com
-
-### Socials:
-
-- Dev.to: https://dev.to/elitezen
-- StackOverflow: https://stackoverflow.com/users/12464931/elitezen
 
 ## 📜 Certifications:
 
