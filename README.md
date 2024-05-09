@@ -1,12 +1,17 @@
 # Hello!
 
-Developing for a hobby for 5 years now. Looking for an entry-level, front-end web development job. I focus on creating API wrappers and libraries in JavaScript, TypeScript and NodeJS. Creating websites with ReactJS and SASS/SCSS.
+I'm Elitezen, an Aspiring full-stack developer.
+
+- Creator of Verified Discord App Expressia | https://top.gg/bot/1162922049707192421
+- Contractor at Scriptly Studios | https://scriptlystudios.com
+- Author of discord-trivia | https://elitezen.github.io/discord-trivia-website/
+
 
 ### Contact Me:
 
 - Email: dev.alejandromarin@gmail.com
 
-### Socials:
+### Links:
 
 - Dev.to: https://dev.to/elitezen
 - StackOverflow: https://stackoverflow.com/users/12464931/elitezen
