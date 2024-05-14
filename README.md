@@ -3,7 +3,7 @@
 I'm Elitezen, an Aspiring full-stack developer.
 
 - Creator of Verified Discord App Expressia | https://top.gg/bot/1162922049707192421
-- Contractor at Scriptly Studios | https://scriptlystudios.com
+- Community Developer at Scriptly Studios | https://scriptlystudios.com
 - Contributor to stop-discord-phising | https://github.com/nikolaischunk/stop-discord-phishing
 - Author of discord-trivia | https://elitezen.github.io/discord-trivia-website/
 
