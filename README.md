@@ -1,8 +1,7 @@
 # Hello! 👋  
 I'm **Alejandro Muratalla-Marin**, an aspiring full-stack web developer.  
 
-📞 813-370-2972 | 📧 [dev.elitezen@gmail.com](mailto:dev.elitezen@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/alejandro-muratalla/) | [GitHub](https://github.com/Elitezen) | [elitezen.dev](https://elitezen.dev)
+📧 [dev.elitezen@gmail.com](mailto:dev.elitezen@gmail.com) | [elitezen.dev](https://elitezen.dev)
 
 ---
 
@@ -42,9 +41,9 @@ My work includes business websites, a published mobile app, and well-documented 
 
 ## 🎓 Education
 
-**Hillsborough Community College**  
+**Community College**  
 AA in Computer Science and Programming  
-📍 [Location Hidden] · August 2022 – July 2024  
+August 2022 – July 2024  
 
 ---
 
