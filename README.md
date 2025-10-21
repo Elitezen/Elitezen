@@ -1,5 +1,5 @@
 # Hello! 👋  
-I'm **Alejandro Muratalla-Marin**, an aspiring full-stack web developer.  
+I'm **Alejandro**, an aspiring full-stack web developer.  
 
 📧 [dev.elitezen@gmail.com](mailto:dev.elitezen@gmail.com) | [elitezen.dev](https://elitezen.dev)
 
