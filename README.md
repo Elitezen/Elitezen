@@ -50,7 +50,6 @@ August 2022 – July 2024
 ## 📜 Certifications
 
 - **Meta Full Stack Developer Specialization**  
-  [Verify Here](https://www.coursera.org/account/accomplishments/specialization/XIO10XFGYOGF)  
 - **Microsoft Technology Associate**: Introduction to Programming using JavaScript (ID: yrwC-uTYe)  
 - **Microsoft Technology Associate**: Introduction to Programming using HTML and CSS (ID: RCqn-4Tpz)  
 - **Microsoft Outlook (Office 2016)** (ID: wMDFo-FMWB)  
