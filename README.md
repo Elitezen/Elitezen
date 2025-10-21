@@ -18,7 +18,7 @@ Full-stack developer with 3+ years of experience creating modern, responsive web
 - Collaborated with stakeholders to enhance user engagement and visibility.  
 
 **Full-Stack Developer – Scriptly Studios**  
-- Built and maintained the company’s official site using **Next.js** and **SCSS**.  
+- Built and maintained the company’s official site using **Next.js** and **Tailwind**.  
 - Created a high-traffic **Express API** with **MongoDB**, improving performance and scalability.  
 
 ---
@@ -34,8 +34,7 @@ Full-stack developer with 3+ years of experience creating modern, responsive web
 ## 📜 Certifications
 
 - **Meta Full Stack Developer Specialization**  
-- **Microsoft Technology Associate** (JavaScript, HTML/CSS)  
-- **Adobe Dreamweaver CC Web Authoring**
+- **Microsoft Technology Associate** (JavaScript, HTML/CSS)
 
 ---
 
