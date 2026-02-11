@@ -1,44 +1,37 @@
-# Hello! 👋  
-I'm **Alejandro**, an aspiring full-stack web developer.  
+I'm **Alejandro**
 
-🌐 [elitezen.dev](https://elitezen.dev)
+https://elitezen.dev
 
----
+Full-stack developer with 3+ years of experience creating websites, APIs, and an app. 
 
-## 🧭 Summary
-
-Full-stack developer with 3+ years of experience creating modern, responsive web applications using **React**, **Node.js**, **TypeScript**, and **MongoDB**. Skilled in accessibility, performance optimization, and clean documentation. Passionate about building intuitive user experiences and scalable systems.
-
----
-
-## 💼 Experience
+## Freelance Experience
 
 **Front-End Developer – Learn Katai Japanese**  
-- Developed and launched a responsive **Next.js** website optimized for SEO and accessibility.  
-- Collaborated with stakeholders to enhance user engagement and visibility.  
+https://learnkataijapanese.com
+- Collaborated with business owner to design, develop, and launch the **Next.js** website.  
 
-**Full-Stack Developer – Scriptly Studios**  
-- Built and maintained the company’s official site using **Next.js** and **Tailwind**.  
-- Created a high-traffic **Express API** with **MongoDB**, improving performance and scalability.  
-
----
-
-## 🚀 Projects
-
-**KanaFlow** – Mobile App  
-- Developed a Japanese kana learning app using **React Native** and **Expo**, published on the App Store.  
-- Improved UI responsiveness across mobile and tablet devices.  
+**Full-Stack Developer – Scriptly Studios**
+https://scriptlystudios.com
+- Built and maintained the studio’s official site using **Next.js**.  
+- Created a high-traffic **Express API** with **MongoDB** for a promotional collaboration with a social media company.  
 
 ---
 
-## 📜 Certifications
+## Projects
 
-- **Meta Full Stack Developer Specialization**  
-- **Microsoft Technology Associate** (JavaScript, HTML/CSS)
+**KanaFlow** – Mobile App
+https://kanaflowapp.com
+- Developed a Japanese kana learning app using **React Native** and **Expo**, published on the App Store.
 
 ---
 
-## 🧰 Skills
+## Certifications
+
+- **Meta Full Stack Developer Specialization** (https://www.coursera.org/account/accomplishments/specialization/XIO10XFGYOGF)
+
+---
+
+## Skills
 
 **Languages:** HTML, CSS, SCSS, JavaScript, TypeScript, Python  
 **Frameworks:** React, Next.js, React Native, Express, Node.js, Tailwind CSS  
@@ -48,10 +41,9 @@ Full-stack developer with 3+ years of experience creating modern, responsive web
 
 ---
 
-## 🌐 Notable Work
+## Other Work
 
 - **Expressia (Verified Discord App)** – [View on Top.gg](https://top.gg/bot/1162922049707192421)  
-- **Community Developer:** [Scriptly Studios](https://scriptlystudios.com)  
 - **Contributor:** [stop-discord-phishing](https://github.com/nikolaischunk/stop-discord-phishing)  
 - **Author:** [discord-trivia](https://elitezen.github.io/discord-trivia-website/)  
 
